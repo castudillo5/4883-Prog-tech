@@ -1,7 +1,7 @@
 Carlos  Astudillo, James Steward, and Eduardo Robles
 
-#Chat-wishful 
-#first name-necessary 
+###Chat-wishful 
+###first name-necessary 
 #high score-possible 
 #last name-necessary
 #leaderboard-possible
