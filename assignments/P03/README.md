@@ -9,7 +9,7 @@ Create a counter for when a circle that is displayed on the screen gets clicked.
 
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
-|  1  |  [Link 1](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  |  Directory to image  |
+|  1  |  [Link 1](msu_texas_background.jpeg)  |  Directory to image  |
 |  2  |  [Link 2](mycode.cpp)  |  .cpp file  |
 
 ### instructions:
