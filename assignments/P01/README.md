@@ -2,7 +2,7 @@
 ### Carlos Astudillo
 ### Description:
 
-.
+A fraction class that will overload the operators.
  
 ### Files:
 
@@ -12,6 +12,8 @@
 |  2  |  [Link 2](inputfile)  |  imput file  |
 
 ### instructions:
--ran on replit
--chat gpt to help overload functions 
--meet with griffin
+-ran on replit.
+
+-chat gpt to help overload functions.
+
+-meet with griffin.
